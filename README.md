@@ -1,4 +1,4 @@
 # Implementor
 Класс Implementor, генерирующий реализации классов и интерфейсов с возможностью сохранения скомпилированной реализации в .jar-файл
 
-Класс ImplerException и интерфейсы Impler, JarImpler созданы преподавателем. Моя код находится в файле Implementor.
+Класс ImplerException и интерфейсы Impler, JarImpler созданы преподавателем. Мой код находится в файле Implementor.
